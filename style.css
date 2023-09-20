@@ -294,7 +294,7 @@ html {
     line-height: 120px;
     color: transparent;
     -webkit-text-stroke: 1px #fff;
-    background: url(../back.png);
+    background: url(back.png);
     -webkit-background-clip: text;
     letter-spacing: 10px;
     background-position: 0 0;
@@ -464,7 +464,7 @@ html {
         line-height: 120px;
         color: transparent;
         -webkit-text-stroke: 1px #fff;
-        background: url(../back.png);
+        background: url(back.png);
         -webkit-background-clip: text;
         letter-spacing: 5px;
         background-position: 0 0;
