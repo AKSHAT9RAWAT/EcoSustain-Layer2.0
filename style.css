@@ -653,7 +653,6 @@ html {
     background: linear-gradient(to right , transparent 50% , rgb(78, 226, 145) 50%);
     background-size: 200%;
     background-position: left;
-    margin-left: 317px;
     border: 2px solid rgb(78, 226, 145);
     cursor: pointer;
     transition: .3s;
