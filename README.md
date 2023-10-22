@@ -35,7 +35,7 @@ Razorpay Generated Email
 1. Static Web Apps
 2. Azure Container Apps
 3. Storage Accounts
-4. Azure Resource Manager
+
 
 <img width="950" alt="Screenshot 2023-10-20 000251" src="https://github.com/AKSHAT9RAWAT/Microsoft-FRT-Internship/assets/133158142/300c5018-ee0d-41b7-811f-a5e523d0b370">
 
