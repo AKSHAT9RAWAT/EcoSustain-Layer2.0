@@ -1,5 +1,5 @@
 # EcoSustain Website
-Project Link- https://delightful-ocean-04ca8cb10.3.azurestaticapps.net
+Project Link(Azure Services)- https://delightful-ocean-04ca8cb10.3.azurestaticapps.net
 
 Explanation Video: https://drive.google.com/file/d/1ufcQj5Gv-Bf9DaMfSvBPrBOMbuCNAPdm/view?usp=share_link
 
